@@ -1,6 +1,5 @@
 # Jake's Poker Room
 
-A free Texas Hold'em trainer that runs in your browser. No sign-up, no account, no ads.
 
 I made this because every online poker training site wants you to make an account first. I asked Claude to build a game to help me get better at poker, and this is what came out. It was built with AI assistance.
 
